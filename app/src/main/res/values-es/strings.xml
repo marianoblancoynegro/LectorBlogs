@@ -5,16 +5,4 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
-    <string-array name="nombres">
-        <item>Chorizos</item>
-        <item>Patatas</item>
-        <item>Melones</item>
-        <item>De los buenos</item>
-        <item>Pan</item>
-        <item>Con tomate</item>
-        <item>Torrijas</item>
-        <item>Tortilla</item>
-        <item>De patata</item>
-
-    </string-array>
 </resources>
